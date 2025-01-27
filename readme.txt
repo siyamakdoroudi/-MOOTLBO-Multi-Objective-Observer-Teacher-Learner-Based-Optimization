@@ -67,8 +67,6 @@ If you use this repository, please cite the original paper:
 Doroudi, S., Sharafati, A., Mohajeri, S. H. (2023). "MOOTLBO: a new multi-objective observer–teacher–learner-based optimization." Soft Computing, 27(20), pp. 15003–15032. DOI: 10.1007/s00500-023-08603-0.
 ```
 
-## License
-This repository is distributed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 For questions or issues, please contact:
